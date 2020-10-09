@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Links
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelahyousuph@gmail.com)
+[![Gmail](https://img.shields.io/badge/-NABEELAHYOUSUPH@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelahyousuph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelah-yousuph/)
 [![nabeelahyousuph.com](https://img.shields.io/badge/-NABEELAHYOUSUPH.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.nabeelahyousuph.com/)
