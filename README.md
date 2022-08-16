@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-  [![Nabeelah's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabeelahY)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Links
 [![Gmail](https://img.shields.io/badge/-NABEELAHYOUSUPH@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelahyousuph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelah-yousuph/)
