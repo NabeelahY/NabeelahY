@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/NabeelahY">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NabeelahY&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NabeelahY&layout=compact&langs_count=10&theme=react&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NabeelahY&layout=compact&hide=html,css&langs_count=10&theme=react&count_private=true"/>
 </a>
-
 </p>
+
 ## Links
 [![Gmail](https://img.shields.io/badge/-NABEELAHYOUSUPH@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelahyousuph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelah-yousuph/)
